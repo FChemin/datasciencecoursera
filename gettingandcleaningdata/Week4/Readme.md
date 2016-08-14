@@ -10,4 +10,4 @@ The run_analysis.R script performs the following steps in order to output a tidy
 * Rename dataset variables with descriptive names
 * Create a new tidy data set with averaged variables
 
-**bold** FChemin __bold__ 2016-08-15
+**FChemin** 2016-08-15
